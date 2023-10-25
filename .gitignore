@@ -1,0 +1,5 @@
+test_images/*
+test_video/*
+output_video/*
+final_video_frames/*
+video_frames/*
